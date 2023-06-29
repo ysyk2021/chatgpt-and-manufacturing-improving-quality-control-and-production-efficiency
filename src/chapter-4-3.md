@@ -3,13 +3,6 @@ Advantages of Using ChatGPT in Improving Quality Control and Production Efficien
 
 In this chapter, we will introduce ChatGPT and explore the advantages of using ChatGPT in improving quality control and production efficiency in manufacturing.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an AI-powered chatbot that uses natural language processing (NLP) to understand and generate human-like text. It is trained on large amounts of data and can be customized to specific use cases, such as improving quality control and production efficiency in manufacturing.
-
-ChatGPT can communicate with humans through a variety of channels, including web chat, mobile apps, and voice assistants, providing personalized support and guidance to workers on the factory floor.
-
 Advantages of Using ChatGPT in Manufacturing
 --------------------------------------------
 
