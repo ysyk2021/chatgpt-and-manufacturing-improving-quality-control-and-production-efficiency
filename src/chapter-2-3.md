@@ -1,5 +1,4 @@
-Types of Manufacturing Processes Used Today
-============================================================================================
+
 
 The manufacturing industry is a complex and diverse field that involves the production of goods from raw materials or components. In this chapter, we will explore the different types of manufacturing processes used today.
 

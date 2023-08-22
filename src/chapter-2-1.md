@@ -1,5 +1,4 @@
-What is Manufacturing Industry?
-================================================================================
+
 
 Manufacturing industry refers to the process of transforming raw materials or components into finished goods that are suitable for use by consumers or businesses. It involves a series of processes that are designed to produce high-quality products efficiently and cost-effectively.
 

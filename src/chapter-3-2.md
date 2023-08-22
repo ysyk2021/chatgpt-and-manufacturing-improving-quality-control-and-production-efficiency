@@ -1,5 +1,4 @@
-Advantages of Using Chatbots and AI in Manufacturing Industry
-===================================================================================================================
+
 
 As we have explored in this book, ChatGPT and other conversational AI technologies have the potential to significantly improve quality control and production efficiency in manufacturing. In this chapter, we will discuss the advantages of using chatbots and AI in the manufacturing industry.
 

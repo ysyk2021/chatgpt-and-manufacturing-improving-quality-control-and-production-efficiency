@@ -1,5 +1,4 @@
-The Features of ChatGPT
-===========================================================
+
 
 In this chapter, we will introduce the features of ChatGPT and how they can be used to improve quality control and production efficiency in manufacturing.
 

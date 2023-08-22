@@ -1,5 +1,4 @@
-Objectives of the Book
-====================================
+
 
 The objective of this book is to explore the potential of ChatGPT and other conversational AI technologies in improving quality control and production efficiency in the manufacturing industry.
 

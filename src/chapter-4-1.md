@@ -1,5 +1,4 @@
-What is ChatGPT?
-====================================================
+
 
 As we explore the potential of ChatGPT in improving quality control and production efficiency in manufacturing, it is important to understand what ChatGPT is and how it works.
 

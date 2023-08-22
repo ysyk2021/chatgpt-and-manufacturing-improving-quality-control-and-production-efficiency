@@ -1,4 +1,4 @@
-# Introduction
+
 
 In recent years, the manufacturing industry has undergone significant transformations due to advancements in technology. The integration of Artificial Intelligence (AI) and chatbots has revolutionized the way manufacturers approach quality control and production efficiency.
 

@@ -1,5 +1,4 @@
-Challenges and Limitations of Using Chatbots in Manufacturing Industry
-============================================================================================================================
+
 
 As we have explored in this book, ChatGPT and other conversational AI technologies have the potential to significantly improve quality control and production efficiency in manufacturing. However, there are also challenges and limitations to using chatbots in the manufacturing industry.
 

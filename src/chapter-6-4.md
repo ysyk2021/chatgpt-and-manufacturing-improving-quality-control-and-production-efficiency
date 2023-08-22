@@ -1,5 +1,4 @@
-Evaluating ChatGPT's Performance and Effectiveness in Improving Quality Control and Production Efficiency
-======================================================================================================================================================================================================
+
 
 In this chapter, we will discuss the implementation of ChatGPT in manufacturing and how to evaluate its performance and effectiveness in improving quality control and production efficiency.
 

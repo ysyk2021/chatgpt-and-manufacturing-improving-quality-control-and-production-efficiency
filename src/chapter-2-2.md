@@ -1,5 +1,4 @@
-The History and Evolution of Manufacturing Industry
-====================================================================================================
+
 
 The manufacturing industry has a rich history dating back thousands of years, with significant technological advancements and changes over time. In this chapter, we will explore the history and evolution of the manufacturing industry.
 

@@ -1,5 +1,4 @@
-Overview of the Book
-==================================
+
 
 This book explores the potential of ChatGPT and other conversational AI technologies in improving quality control and production efficiency in the manufacturing industry.
 

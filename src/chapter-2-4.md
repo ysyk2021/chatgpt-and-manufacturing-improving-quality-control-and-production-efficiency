@@ -1,5 +1,4 @@
-Limitations and Challenges of Manufacturing Industry
-=====================================================================================================
+
 
 As we explore the potential of ChatGPT in improving quality control and production efficiency in manufacturing, it is important to first understand the limitations and challenges of the manufacturing industry. In this chapter, we will discuss some of these limitations and challenges.
 

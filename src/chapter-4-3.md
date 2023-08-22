@@ -1,5 +1,4 @@
-Advantages of Using ChatGPT in Improving Quality Control and Production Efficiency
-======================================================================================================================
+
 
 In this chapter, we will introduce ChatGPT and explore the advantages of using ChatGPT in improving quality control and production efficiency in manufacturing.
 

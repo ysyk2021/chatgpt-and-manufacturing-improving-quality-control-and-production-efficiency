@@ -1,5 +1,4 @@
-How ChatGPT Uses Data to Improve Quality Control and Production Efficiency
-=====================================================================================================================================================
+
 
 In this chapter, we will explain how ChatGPT uses data to improve quality control and production efficiency in manufacturing.
 

@@ -1,5 +1,4 @@
-Chapter 2: Chatbots and AI in Manufacturing Industry
-====================================================
+
 
 Chatbots and AI technologies have the potential to revolutionize the manufacturing industry, improving quality control and production efficiency. In this chapter, we will explore the use of chatbots and AI in manufacturing, including their advantages, types used, and challenges.
 

@@ -1,5 +1,4 @@
-An Overview of Chatbots and AI in Manufacturing Industry
-==============================================================================================================
+
 
 Chatbots and AI technologies have the potential to significantly improve quality control and production efficiency in the manufacturing industry. In this chapter, we will provide an overview of chatbots and AI in the manufacturing industry.
 
