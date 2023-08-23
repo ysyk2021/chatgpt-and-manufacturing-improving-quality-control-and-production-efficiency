@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore case studies that demonstrate how ChatGPT has been effective in improving quality control and production efficiency in manufacturing.
 
 Case Study 1: Automotive Manufacturing

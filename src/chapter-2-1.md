@@ -1,5 +1,4 @@
 
-
 Manufacturing industry refers to the process of transforming raw materials or components into finished goods that are suitable for use by consumers or businesses. It involves a series of processes that are designed to produce high-quality products efficiently and cost-effectively.
 
 The manufacturing industry plays a critical role in the global economy, contributing to job creation, economic growth, and technological innovation. It encompasses a wide range of sectors, including automotive, aerospace, electronics, food and beverage, pharmaceuticals, and more.

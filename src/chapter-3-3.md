@@ -1,5 +1,4 @@
 
-
 As we have explored in this book, ChatGPT and other conversational AI technologies have the potential to significantly improve quality control and production efficiency in manufacturing. In this chapter, we will discuss the types of chatbots used in the manufacturing industry.
 
 Task-Oriented Chatbots

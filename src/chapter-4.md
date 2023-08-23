@@ -1,5 +1,4 @@
 
-
 In this chapter, we will introduce ChatGPT and explore its features. We will also discuss the advantages of using ChatGPT in improving quality control and production efficiency, as well as provide case studies on ChatGPT-based improvements in these areas.
 
 What is ChatGPT?

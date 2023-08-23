@@ -1,5 +1,4 @@
 
-
 The manufacturing industry is a complex field that involves the production of goods from raw materials or components. In this chapter, we will explore what manufacturing is, its history and evolution, the different types of manufacturing processes used today, and the limitations and challenges facing the industry.
 
 What is Manufacturing Industry?

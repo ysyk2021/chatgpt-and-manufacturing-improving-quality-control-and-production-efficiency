@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explain how ChatGPT uses data to improve quality control and production efficiency in manufacturing.
 
 Real-Time Data Analysis

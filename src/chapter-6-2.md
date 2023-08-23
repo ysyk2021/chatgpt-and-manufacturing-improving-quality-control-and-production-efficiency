@@ -1,5 +1,4 @@
 
-
 As we have explored throughout this book, ChatGPT has the potential to significantly improve quality control and production efficiency in manufacturing. In this chapter, we will discuss the implementation of ChatGPT in improving quality control and production efficiency, specifically through integration with existing manufacturing systems.
 
 Integration with Manufacturing Systems

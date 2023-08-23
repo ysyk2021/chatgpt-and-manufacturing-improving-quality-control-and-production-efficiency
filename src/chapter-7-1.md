@@ -1,5 +1,4 @@
 
-
 In this chapter, we explore the emerging trends in chatbots and AI in improving quality control and production efficiency. As technology continues to evolve, so do the potential applications of AI and chatbots in manufacturing.
 
 Internet of Things (IoT) Integration

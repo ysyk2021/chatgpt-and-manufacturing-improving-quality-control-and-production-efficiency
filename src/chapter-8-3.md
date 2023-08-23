@@ -1,5 +1,4 @@
 
-
 In this book, we have explored the potential of ChatGPT in improving quality control and production efficiency in manufacturing. While ChatGPT has shown promise in these areas, there are also limitations and ethical considerations that must be taken into account.
 
 One limitation is the need for massive amounts of data to properly train ChatGPT. This can be a challenge for smaller manufacturers who may not have access to large datasets. Another limitation is the potential for bias in the training data, which can lead to biased or discriminatory responses from ChatGPT.
