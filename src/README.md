@@ -10,3 +10,7 @@ As the manufacturing industry continues to evolve, it is essential for manufactu
 We hope that this book will serve as a valuable resource for manufacturers looking to optimize their operations and thrive in today's competitive business environment.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
