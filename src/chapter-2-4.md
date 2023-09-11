@@ -1,5 +1,4 @@
-Chapter 6: Limitations and Challenges of the Manufacturing Industry
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the limitations and challenges faced by the manufacturing industry in its pursuit to improve quality control and production efficiency. While advancements like ChatGPT offer significant benefits, it is crucial to understand and address the limitations and challenges inherent in the manufacturing context. Let's explore these factors.
 

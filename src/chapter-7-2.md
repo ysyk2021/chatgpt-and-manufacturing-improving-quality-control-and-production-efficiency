@@ -1,5 +1,4 @@
-Chapter 6: The Future of Chatbots and AI in Improving Quality Control and Production Efficiency
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

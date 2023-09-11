@@ -1,5 +1,4 @@
-Chapter 3: The Features of ChatGPT
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the key features of ChatGPT that make it a valuable tool for improving quality control and production efficiency in the manufacturing industry. ChatGPT is powered by advanced natural language processing capabilities and can provide real-time assistance, insights, and decision support. Let's delve into the features that set ChatGPT apart.
 

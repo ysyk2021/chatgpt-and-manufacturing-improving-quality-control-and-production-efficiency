@@ -1,5 +1,4 @@
-Chapter 5: Advantages of Using Chatbots and AI in the Manufacturing Industry
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

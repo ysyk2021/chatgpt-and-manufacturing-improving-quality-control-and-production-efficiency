@@ -1,5 +1,4 @@
-Chapter 1: What is the Manufacturing Industry?
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the manufacturing industry and its significance in the context of improving quality control and production efficiency. The manufacturing industry encompasses a wide range of activities involved in the transformation of raw materials into finished products. Let's explore the key aspects and characteristics of the manufacturing industry.
 

@@ -1,5 +1,4 @@
-Chapter 1: The History and Evolution of the Manufacturing Industry
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

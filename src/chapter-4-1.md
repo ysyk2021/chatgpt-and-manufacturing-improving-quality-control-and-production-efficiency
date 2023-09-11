@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of ChatGPT and its significance in improving quality control and production efficiency within the manufacturing industry. ChatGPT, based on OpenAI's GPT (Generative Pre-trained Transformer) model, is an advanced language model that utilizes artificial intelligence (AI) to generate human-like text responses. It has revolutionized the way humans interact with machines through natural language processing capabilities. Let's delve into the key aspects of ChatGPT and its relevance in the manufacturing sector.
 

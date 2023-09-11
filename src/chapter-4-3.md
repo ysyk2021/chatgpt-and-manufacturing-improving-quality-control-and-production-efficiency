@@ -1,5 +1,4 @@
-Chapter 4: Advantages of Using ChatGPT in Improving Quality Control and Production Efficiency
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significant advantages of leveraging ChatGPT in improving quality control and production efficiency within the manufacturing industry. ChatGPT offers unique capabilities that can enhance decision-making, streamline processes, and drive continuous improvement. Let's delve into the advantages of using ChatGPT in this context.
 

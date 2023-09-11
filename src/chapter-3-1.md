@@ -1,5 +1,4 @@
-Chapter 2: An Overview of Chatbots and AI in the Manufacturing Industry
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

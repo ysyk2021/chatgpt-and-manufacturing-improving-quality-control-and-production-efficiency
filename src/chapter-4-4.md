@@ -1,5 +1,4 @@
-Chapter 2: Case Studies on ChatGPT-Based Improvements in Quality Control and Production Efficiency
-==================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
